@@ -11,7 +11,7 @@ An advanced, production-grade Retrieval-Augmented Generation (RAG) security arch
 
 ## 🎬 System Walkthrough & Demo
 
-> > **[Watch the Screen Recording Walkthrough](./demo.mov)**
+> **[Watch the Screen Recording Walkthrough](./demo.mov)**
 
 * **0:00 – 0:20 | Backend Provenance:** Inspecting the Neo4j Knowledge Graph where unstructured enterprise data chunks are cryptographically signed with immutable SHA-256 passports and linked directly to security clearance nodes (`EXECUTIVE_ONLY`).
 * **0:20 – 0:40 | Executive Authorization:** Querying the Streamlit dashboard as an Executive (`EXECUTIVE_ONLY`) to successfully retrieve sensitive Q3 financial records (Green Success).
